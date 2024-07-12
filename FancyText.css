@@ -1,0 +1,14 @@
+/* FancyText.css */
+/* Define styles for title and regular text */
+.fancy-title {
+  font-size: 2em;
+  font-weight: bold;
+  color: #4A90E2;
+  margin-bottom: 10px;
+}
+
+.fancy-text {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 10px;
+}
